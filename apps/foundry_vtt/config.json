@@ -1,0 +1,16 @@
+{
+    "name": "Foundry vtt",
+    "available": true,
+    "port": 30000,
+    "id": "foundry_vtt",
+    "description": "vtt pour jdr en ligne",
+    "tipi_version": 1,
+    "version": "12.321",
+    "categories": [
+        "utilities"
+    ],
+    "short_desc": "vtt",
+    "author": "https://github.com/foundryvtt/foundryvtt",
+    "source": "https://github.com/foundryvtt/foundryvtt",
+    "form_fields": []
+}
